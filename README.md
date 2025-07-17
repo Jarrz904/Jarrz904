@@ -61,6 +61,7 @@
 
 
 
+
 ### 🎮Game
 
 <picture>
@@ -70,6 +71,7 @@
 </picture>
 
 ###
+
 
 <img src="https://raw.githubusercontent.com/Jarrz904/Jarrz904/output/snake.svg" alt="Snake animation" />
 
